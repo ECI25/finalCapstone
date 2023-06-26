@@ -32,5 +32,7 @@ You can repeat the process by entering different movie descriptions and receivin
 
 # Screenshots of the program output
 
+![](https://github.com/ECI25/finalCapstone/blob/main/Capture2.JPG)
+
 # Credits
 This project was created by Excel Igwe
