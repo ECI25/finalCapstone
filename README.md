@@ -28,5 +28,9 @@ The system will calculate the similarity between the input description and the d
 
 You can repeat the process by entering different movie descriptions and receiving new recommendations.
 
+
+
+# Screenshots of the program output
+
 # Credits
 This project was created by Excel Igwe
