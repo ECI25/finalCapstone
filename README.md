@@ -1,4 +1,4 @@
-# This project aims to build a movie recommender system based on word vector similarity. By analyzing the descriptions of different movies, the system will suggest which movies a user should watch next. In this example, we will use the movie description of "Planet Hulk" to recommend similar movies.
+# The purpose of this project is to create a movie recommendation system that relies on word vector similarity. By analysing movie descriptions, the system will provide suggestions for which movies a user should watch next. For instance, we will utilize the movie description of "Planet Hulk" as a reference to recommend similar films.
 
 
 
