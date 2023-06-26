@@ -1,9 +1,14 @@
 # This project aims to build a movie recommender system based on word vector similarity. By analyzing the descriptions of different movies, the system will suggest which movies a user should watch next. In this example, we will use the movie description of "Planet Hulk" to recommend similar movies.
+
+
+
 # Table of Contents
 Installation
 Usage
 Credits
 Installation
+
+
 
 # To run this project locally, please follow the instructions below:
 
@@ -11,6 +16,8 @@ Clone the repository to your local machine:
 git clone https://github.com/ECI25/finalCapstone.git
 Navigate to the project directory:
 cd finalCapstone
+
+
 
 # Run the watch_next.py script:
  python watch_next.py
